@@ -1,4 +1,13 @@
-## Hi there 👋
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
+- :school: I'm a student at [Faculty of science and technology in the Computer Enfinnering program](http://www.fcyt.umss.edu.bo/pregrado/informatica/) at [Higher University of San Simón.](https://www.umss.edu.bo).
+- :technologist: I love using Software as a solution for every Problem.
+- :computer: I am a competitive programmer at Codeforces.
+- :nerd_face: Always learning new things.
+<br>
 
 <!--
 **Esteban6p9/Esteban6p9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
