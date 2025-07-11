@@ -10,10 +10,9 @@
   <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 </picture>
 
-- 🎓 I'm a student at [Faculty of science and technology in the Computer Enfinnering program](http://www.fcyt.umss.edu.bo/pregrado/informatica/) at [Higher University of San Simón.](https://www.umss.edu.bo).
-- :technologist: I love using Software as a solution for every Problem.
-- :computer: I am a competitive programmer at Codeforces.
-- :nerd_face: Always learning new things.
+- :technologist: Computer Engineering Student at [Higher University of San Simón.](https://www.umss.edu.bo)
+- :computer: I don’t break the system — I find the backdoor, rewrite the rules, and leave a virus as my signature.
+- :nerd_face: I like to program and play volleyball in my free time.
 
 
 <!--
