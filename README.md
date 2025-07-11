@@ -11,10 +11,19 @@
 </picture>
 
 - :technologist: Computer Engineering Student at [Higher University of San Simón.](https://www.umss.edu.bo)
+
 - :computer: I don’t break the system — I find the backdoor, rewrite the rules, and leave a virus as my signature.
+
 - :nerd_face: I like to program and play volleyball in my free time.
 
+<br />
 
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,css,git,vscode,linux&perline=10"  />
+</p>
+<br />
 <!--
 **Esteban6p9/Esteban6p9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
